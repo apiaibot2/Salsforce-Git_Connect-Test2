@@ -1,5 +1,0 @@
-public class ApexRest_Wrapper {
-    @auraEnabled public string id{set;get;}
-    @auraEnabled public Boolean success{set;get;}
-
-}
